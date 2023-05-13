@@ -1,0 +1,80 @@
+/* .firstinput{
+    width: 50%
+} */
+*{
+    background-color: rgb(194, 207, 207);
+}
+label{
+    width: 500px;
+}
+.first{
+
+   justify-content: center;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.i{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.input1{
+    width: 300px;
+    width: 300px;
+    border-radius: 15px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.input2{
+    width: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+}
+.input3{
+    width: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+}
+.input4{
+    width: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+}
+.input5{
+    width: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+}
+.input6{
+    width: 300px;
+    margin-top: 40px;
+    border-radius: 15px;
+    height: 40px;
+    background: transparent;
+    cursor: pointer;
+}
+.sub{
+    margin-top: 40px;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+}
+.sub:hover{
+    background-color: rgb(35, 150, 35);
+    
+}
